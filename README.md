@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TicklesMyBrain
+- 👋 Hi, I’m @TicklesMyBrain. Many call me "KE"
 - 👀 I’m interested in nonprofits, non-governmental organizations, project support, diversity, and a resuce cat named Hope
 - 🌱 I’m currently learning JavaScript, Google AppScript, and my personal superpower
 - 💞️ I’m super new to this space so not adding much value YET. Would love to tag along and learn from others.
